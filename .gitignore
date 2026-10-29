@@ -1,0 +1,30 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+**/application-local.yml
+**/application-local.yaml
+*.pem
+*.key
+*.p12
+*.jks
+
+# Dependencies and generated output
+**/node_modules/
+**/target/
+**/dist/
+**/dist-ssr/
+**/coverage/
+**/logs/
+*.log
+*.class
+*.jar
+
+# Editors and OS files
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+*.iml
+.DS_Store
+Thumbs.db

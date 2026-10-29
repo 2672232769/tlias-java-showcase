@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-29",
+  "project": "tlias-java-showcase",
+  "java_vue_dependency_sql_files_equal_build_baseline": 98,
+  "baseline_maven_package": "passed; tests skipped",
+  "baseline_frontend_build": "passed",
+  "database_import_performed": false,
+  "full_business_e2e_performed": false,
+  "original_tracked_files_unchanged": true,
+  "credential_scan": "passed"
+}
